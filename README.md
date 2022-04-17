@@ -11,7 +11,7 @@ Software : Xampp
 
 Configure at local : 
 
-1. Clone the repo https://github.com/SayaliKadam14/hospital.git
+1. Clone the repo https://github.com/SayaliKadam14/hospital.git ( As there were few issues related to the ssh key while committing code. So added rar file it contains the project folder, Download the  rar file, extract it. It contains SQL file as well for db schema. Please refer this updated readme file )
 
 2.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
